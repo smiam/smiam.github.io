@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://smiam.github.io/qmD/sitemap.qmD.gz
